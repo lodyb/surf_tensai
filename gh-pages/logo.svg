@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 199.97784 120.04949"
+   height="120.04949"
+   width="199.97784">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4207">
+      <stop
+         id="stop4209"
+         offset="0"
+         style="stop-color:#e19eca;stop-opacity:1;" />
+      <stop
+         id="stop4211"
+         offset="1"
+         style="stop-color:#00ffab;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4161">
+      <stop
+         style="stop-color:#8f3cca;stop-opacity:1"
+         offset="0"
+         id="stop4165" />
+      <stop
+         style="stop-color:#12bbca;stop-opacity:1;"
+         offset="1"
+         id="stop4163" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(0.25253814,0)"
+       gradientUnits="userSpaceOnUse"
+       y2="972.36206"
+       x2="100"
+       y1="892.36206"
+       x1="100"
+       id="linearGradient4169"
+       xlink:href="#linearGradient4161" />
+    <linearGradient
+       gradientTransform="translate(0.25253814,0)"
+       gradientUnits="userSpaceOnUse"
+       y2="972.36206"
+       x2="100"
+       y1="872.36206"
+       x1="100"
+       id="linearGradient4213"
+       xlink:href="#linearGradient4207" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.25253814,-852.36209)"
+     id="layer1">
+    <path
+       id="path3357"
+       d="m 0.25253814,972.36209 39.94074386,-0.23194 60.526358,-72.63162 60.14715,72.91305 39.36359,-0.32965 L 100.0051,852.36209 Z"
+       style="fill:url(#linearGradient4213);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path3359"
+       d="m 40.193282,972.13015 120.673508,0.28143 -60.14715,-72.91305 z"
+       style="fill:url(#linearGradient4169);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
